@@ -36,18 +36,23 @@ pueblo-duerme/
 ---
 
 ### 🚀 Running Locally
+
 1. Clone the repository:
-   ```bash
-git clone https://github.com/marcos-madrigal/pueblo-duerme.git
-   ```
+```bash
+git clone [https://github.com/marcos-madrigal/pueblo-duerme.git](https://github.com/marcos-madrigal/pueblo-duerme.git)
+cd pueblo-duerme
+```
+
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
+
 3. Start the server:
-   ```bash
-   node server.js
-   ```
+```bash
+node server.js
+```
+
 4. Open `http://localhost:3000` in multiple browser tabs to simulate a multiplayer lobby.
 
 ---
