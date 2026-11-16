@@ -53,7 +53,7 @@ npm install
 node server.js
 ```
 
-4. Open `http://localhost:3000` in multiple browser tabs to simulate a multiplayer lobby.
+4. Open `http://localhost:3000` in multiple browser tabs to simulate a local multiplayer lobby (or jump straight into the hosted version at [pueblo-duerme.onrender.com](https://pueblo-duerme.onrender.com/)).
 
 ---
 
