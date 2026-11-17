@@ -1,21 +1,21 @@
-# 🐺 Pueblo Duerme Online (Multiplayer Social Deduction Game)
+# Pueblo Duerme Online (Multiplayer Social Deduction Game)
 
 A real-time multiplayer browser game inspired by the classic social deduction party game *Werewolf* (*Pueblo Duerme*). Built with **Node.js**, **Express**, and **Socket.IO** for low-latency bidirectional communication between players.
 
 🔗 **Live Beta Demo:** [Play Pueblo Duerme Online](https://pueblo-duerme.onrender.com/)
 
-> ⚠️ **Status:** Active Beta — Core real-time gameplay loop, WebSocket event handling, and role mechanics are live. Custom room creation & lobby management are currently in progress.
+> **Status:** Active Beta — Core real-time gameplay loop, WebSocket event handling, and role mechanics are live. Custom room creation & lobby management are currently in progress.
 
 ---
 
-### ✨ Key Features
+### Key Features
 - **Real-Time WebSocket Architecture:** Powered by Socket.IO to synchronize player connections, game states, and votes instantaneously across clients.
 - **Server-Authoritative Game Loop:** Centralized state machine in `server.js` handling day/night phases, role assignments, and win conditions to prevent client-side tampering.
 - **Zero-Install Browser Client:** Lightweight frontend (`public/index.html`) accessible directly from any web browser via Render.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 - **Backend:** Node.js, Express
 - **Real-Time Communication:** Socket.IO (WebSockets)
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
@@ -23,7 +23,7 @@ A real-time multiplayer browser game inspired by the classic social deduction pa
 
 ---
 
-### 📂 Project Structure
+### Project Structure
 ```text
 pueblo-duerme/
 ├── public/
@@ -35,7 +35,7 @@ pueblo-duerme/
 
 ---
 
-### 🚀 Running Locally
+### Running Locally
 
 1. Clone the repository:
 ```bash
@@ -57,7 +57,7 @@ node server.js
 
 ---
 
-### 🗺️ Roadmap
+### Roadmap
 - [x] Real-time Socket.IO connection and player synchronization
 - [x] Core day/night cycle and role mechanics
 - [x] Cloud deployment on Render
