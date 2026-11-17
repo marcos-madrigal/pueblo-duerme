@@ -2,7 +2,7 @@
 
 A real-time multiplayer browser game inspired by the classic social deduction party game *Werewolf* (*Pueblo Duerme*). Built with **Node.js**, **Express**, and **Socket.IO** for low-latency bidirectional communication between players.
 
-🔗 **Live Beta Demo:** [Play Pueblo Duerme Online](https://pueblo-duerme.onrender.com/)
+🔗 **Live Beta Demo:** [Play Pueblo Duerme Online](https://pueblo-duerme-9hx1.onrender.com/)
 
 > **Status:** Active Beta — Core real-time gameplay loop, WebSocket event handling, and role mechanics are live. Custom room creation & lobby management are currently in progress.
 
